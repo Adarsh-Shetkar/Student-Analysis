@@ -1,5 +1,3 @@
-<h1>About Project</h1>
-
 It is a GUI application built using Tkinter and Matplotlib.
 This is a very user-friendly GUI application built using the Tkinter package in python.
 This application helps students to analyze their performance with the help of graphical representation.
