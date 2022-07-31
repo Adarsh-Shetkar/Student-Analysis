@@ -1,7 +1,7 @@
 
 # Student Analysis
 
-<img src="https://github.com/Adarsh-Shetkar/Student-Analysis/blob/main/GUI%20page.jpg" alt="GUI interface">
+![GUI interface](https://github.com/Adarsh-Shetkar/Student-Analysis/blob/main/GUI%20page.jpg)
 
 It is a GUI application built using Tkinter and Matplotlib.
 This is a very user-friendly GUI application built using the Tkinter package in python.
